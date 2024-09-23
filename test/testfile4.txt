@@ -1,0 +1,17 @@
+int main() {
+    int i = 1;
+    printf("21373399");
+    int ans = getint(), an[3] = {1};
+    if (ans == 1) {
+        an[0] = ans >= an[0];
+    }
+    if (an[0] != ans) {
+        ans = an[0] > ans;
+    }
+    else if (1) {
+        ans = an[0] < ans;
+    }
+    else {
+        ans = an[0] <= ans;
+    }
+}
